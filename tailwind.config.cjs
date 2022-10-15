@@ -10,7 +10,7 @@ module.exports = {
       md: 18,
       lg: 20,
       xl: 24,
-      '2xl': 32
+      '2xl': 32,
     },
     colors: {
       transparent: 'transparent',
